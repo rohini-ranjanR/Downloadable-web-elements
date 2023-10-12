@@ -3,7 +3,7 @@
     <img src="img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Steller web - Download Web Elements and build your site easiy</h3>
+<h3 align="center">Steller web - Download Web Elements and build your site easily</h3>
 
   <p align="center">
     project_description
@@ -13,7 +13,7 @@
     We provide you code to use it in your own way customizable.<br /> 
     <br />
     <br />
- <img src = "downloads/web/header/sale-banner/sale-header.png">
+ <img src = "">
     <br />
   <br />
     ·
