@@ -9,8 +9,8 @@
     project_description
     <br />
 <!--     <a href="https://github.com/rohini-ranjanR/steller-web"><strong>Steller Web</strong></a><br/> -->
-    Steller Web provide you free elements to download, use it on your website and not to create something from scratch. <br />
-    We provide you code to use it in your own way customizable.<br /> 
+    Steller Web provide free elements to download, use it on any website and not to create something from scratch. <br />
+    Provide code to use it in your own way customizable.<br /> 
     <br />
     <br />
  <img src = "downloads/web/navbar/red-nav-bar/preview nav.png">
