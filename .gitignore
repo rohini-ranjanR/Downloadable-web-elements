@@ -19,23 +19,23 @@ img\component.png
 img\hero.png
 img\logo.png
 
-header-line\line.html
-loading.animation\loader\loader.html
-loading.a\loading.html
-progress-bar\progress.html
-rotation-slide\rotation.html
+download\animation\header-line\line.html
+download\animation\loading.animation\loader\loader.html
+download\animation\loading.a\loading.html
+download\animation\progress-bar\progress.html
+download\animation\rotation-slide\rotation.html
 web\cards\text card\textcard.html
-carousels\image-carousels\infinite carousels\index.html
-chatbots\Chat-chatbot\chat-chatbot.html
-help service chatbot\index.html
-header\header-text\header.html
-sale-banner\sale-banner.html
-hero-section\minimalist-hero\index.html
-image slider\button image slider\index.html
-Image slider\gradient-slider\index.html
-navbar\icon-navbar\nav.html
-navbar\red-nav-bar\nav.html
-side navbar\index.html
-text\text.html
-text-effect\text.html
+web\carousels\image-carousels\infinite carousels\index.html
+webchatbots\Chat-chatbot\chat-chatbot.html
+web\help service chatbot\index.html
+web\header\header-text\header.html
+web\sale-banner\sale-banner.html
+web\hero-section\minimalist-hero\index.html
+web\image slider\button image slider\index.html
+web\Image slider\gradient-slider\index.html
+web\navbar\icon-navbar\nav.html
+web\navbar\red-nav-bar\nav.html
+web\navbar\side navbar\index.html
+web\text\text.html
+web\text\text-effect\text.html
 
