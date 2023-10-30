@@ -3,7 +3,7 @@
     <img src="img/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-<h3 align="center">Steller web - Download Web Elements and build your site easily</h3>
+<h3 align="center">Download Web Elements - Download Web Elements and build your site easily</h3>
 
   <p align="center">
     project_description
