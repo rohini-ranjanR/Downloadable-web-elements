@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://github.com/rohini-ranjanR/steller-web">
+<!--   <a href="https://github.com/rohini-ranjanR/steller-web">
     <img src="img/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
 <h3 align="center">Steller web - Download Web Elements and build your site easily</h3>
 
@@ -9,7 +9,7 @@
     project_description
     <br />
 <!--     <a href="https://github.com/rohini-ranjanR/steller-web"><strong>Steller Web</strong></a><br/> -->
-    Steller Web provide free elements to download, use it on any website and not to create something from scratch. <br />
+    Download Web Elements provide free elements to download, use it on any website and not to create something from scratch. <br />
     Provide code to use it in your own way customizable.<br /> 
     <br />
     <br />
