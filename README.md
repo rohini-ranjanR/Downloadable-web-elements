@@ -9,10 +9,6 @@
     project_description
     <br />
 <!--     <a href="https://github.com/rohini-ranjanR/steller-web"><strong>Steller Web</strong></a><br/> -->
-    Download Web Elements provide free elements to download, use it on any website and not to create something from scratch. <br />
-    Provide code to use it in your own way customizable.<br /> 
-    <br />
-    <br />
  <img src = "downloads/web/navbar/red-nav-bar/preview nav.png">
     <br />
   <br />
